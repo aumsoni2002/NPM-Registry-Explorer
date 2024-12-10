@@ -75,13 +75,12 @@ src/
 ## 📸 Screenshots
 
 ### Home Page
+![image](https://github.com/user-attachments/assets/b7fe6f0b-842e-4ccb-98b1-c3a6870e085b)
 
-![Home Page](https://via.placeholder.com/900x500?text=Home+Page)
 
 ### Search Results
+![image](https://github.com/user-attachments/assets/19e2417f-1b78-46dc-a2de-ed9fee222ae2)
 
-![Search Results](https://via.placeholder.com/900x500?text=Search+Results)
 
 ### Package Details
-
-![Package Details](https://via.placeholder.com/900x500?text=Package+Details)
+![image](https://github.com/user-attachments/assets/3f9c3b5f-4612-4f8d-ae6c-f5eae433571d)
